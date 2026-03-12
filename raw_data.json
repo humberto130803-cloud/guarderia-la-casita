@@ -1,0 +1,24 @@
+{
+  "google": {
+    "name": "Guarderia la casita de los niños",
+    "category": "Guardería",
+    "address": "XFHC+4P2 49 412, Panama City",
+    "phone": "6477-3883",
+    "website": "",
+    "hours": {
+      "info": "jueves, De 7 a.m. a 6 p.m., Copiar el horario de atención"
+    },
+    "rating": "",
+    "review_count": "",
+    "reviews": [],
+    "photos_downloaded": [
+      "C:\\Users\\humbe\\selling websites\\_temp_assets_w9\\maps_photo_1.jpg"
+    ]
+  },
+  "social": {},
+  "socials_urls": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "scraped_at": "2026-03-12T03:52:35.033607"
+}
